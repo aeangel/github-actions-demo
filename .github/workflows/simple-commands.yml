@@ -14,5 +14,5 @@ jobs:
       - name: List Files
         run: ls -la
 
-      - name: ping google
-        run: ping google.com
+      - name: whoami
+        run: whoami
